@@ -13,8 +13,8 @@ const App: React.FC= () => {
       <div className="mainContainer">
       <div className="routesContainer">
         <Header />
-        <Posts title="" body=""/>
         <Users username="" />
+        <Posts title="" body=""/>
         <Photos url=""/>
       </div>
       </div>
